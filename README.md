@@ -1,2 +1,1 @@
-# tag_practice
-Week 1 of SSI339
+# W01-TagExercise
